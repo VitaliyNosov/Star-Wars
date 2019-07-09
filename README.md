@@ -10,7 +10,7 @@
 
 <p>Ready project on the server:<p> 
 	
-<p> </p>
+<p>https://sharp-tesla-77741c.netlify.com</p>
 
 <p>To run the project, refer to the documentation: <strong>create-react-app</strong></p> 
 
